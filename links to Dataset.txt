@@ -1,0 +1,5 @@
+Link to unseparated dataset in google drive:
+https://drive.google.com/drive/folders/1-1KW5Y73gJXhNsKhjSmE0-C79LH8mOp9
+
+Link to separated dataset in google drive (train/test):
+https://drive.google.com/drive/folders/1Af8_vi4Vmy-rSCz_niqaLJ_3dl0GQO79
